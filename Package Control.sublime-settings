@@ -5,16 +5,26 @@
 	],
 	"installed_packages":
 	[
+		"Alignment",
+		"All Autocomplete",
 		"AutoFileName",
 		"Autoprefixer",
 		"BracketHighlighter",
+		"CSScomb",
 		"CTags",
+		"DocBlockr",
 		"Emmet",
+		"FileDiffs",
 		"Include Autocomplete",
 		"jQuery",
 		"LiveReload",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownHighlighting",
 		"Package Control",
 		"SFTP",
+		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"Sublimerge 3"
 	]
