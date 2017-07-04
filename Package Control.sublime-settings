@@ -1,7 +1,21 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"Package Control"
+		"AutoFileName",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"CTags",
+		"Emmet",
+		"Include Autocomplete",
+		"jQuery",
+		"LiveReload",
+		"Package Control",
+		"SFTP",
+		"SublimeCodeIntel",
+		"Sublimerge 3"
 	]
 }
