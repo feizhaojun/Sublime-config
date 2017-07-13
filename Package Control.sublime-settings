@@ -5,10 +5,12 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Alignment",
 		"All Autocomplete",
 		"AutoFileName",
 		"Autoprefixer",
+		"Boxy Theme",
 		"BracketHighlighter",
 		"CSScomb",
 		"CTags",
