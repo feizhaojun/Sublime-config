@@ -8,12 +8,12 @@
     "sync_down_on_open": true,
     "sync_same_age": true,
     
-    "host": "h.a.exyouth.com",
+    "host": "h.h.exyouth.com",
     "user": "mukti",
     "password": "850804",
     "port": "21",
     
-    "remote_path": "/www/",
+    "remote_path": "/",
     //"file_permissions": "664",
     //"dir_permissions": "775",
     
@@ -27,8 +27,8 @@
     //"sftp_flags": ["-F", "/path/to/ssh_config"],
     
     //"preserve_modification_times": false,
-    "remote_time_offset_in_hours": 0,
-    //"remote_encoding": "utf-8",
+    //"remote_time_offset_in_hours": 0,
+    "remote_encoding": "iso-8859-15",
     //"remote_locale": "C",
     //"allow_config_upload": false,
 }
