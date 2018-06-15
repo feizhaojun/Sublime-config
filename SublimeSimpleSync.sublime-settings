@@ -19,6 +19,11 @@
       "type" : "local",
       "local" : "E:\\Dev\\ITS_RS\\src\\main\\webapp",           //你的本地文件夹
       "remote" : "E:\\Dev\\.metadata\\.plugins\\org.eclipse.wst.server.core\\tmp0\\wtpwebapps\\ITS_RS"   //你的本地服务器的位置
+    },
+    {
+      "type" : "local",
+      "local" : "E:\\Dev\\ITS_SpeechRater\\src\\main\\webapp",           //你的本地文件夹
+      "remote" : "E:\\Dev\\.metadata\\.plugins\\org.eclipse.wst.server.core\\tmp0\\wtpwebapps\\ITS_SpeechRater"   //你的本地服务器的位置
     }
   ]
 }

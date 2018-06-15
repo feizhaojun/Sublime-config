@@ -1,5 +1,6 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"expand_tabs_on_save": true,
 	"font_size": 11,
 	"ignored_packages":
 	[
@@ -7,11 +8,8 @@
 		"Markdown Preview",
 		"Vintage"
 	],
+	"tab_size": 2,
 	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"update_check": false,
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true,
-  //若要在保存时自动把tab 转换成空格，请把下面一行设置成 true，如不需要: 设置成 false
-  "expand_tabs_on_save": true
+	"update_check": false
 }
