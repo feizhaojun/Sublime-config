@@ -8,7 +8,7 @@
     "sync_down_on_open": true,
     "sync_same_age": true,
     
-    "host": "h.a.exyouth.com",
+    "host": "feizhaojun.com",
     "user": "mukti",
     "password": "850804",
     "port": "21",
@@ -21,7 +21,7 @@
 
     "connect_timeout": 30,
     //"keepalive": 120,
-    //"ftp_passive_mode": true,
+    "ftp_passive_mode": false,
     //"ftp_obey_passive_host": false,
     //"ssh_key_file": "~/.ssh/id_rsa",
     //"sftp_flags": ["-F", "/path/to/ssh_config"],
