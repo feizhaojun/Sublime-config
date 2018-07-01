@@ -1,10 +1,14 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"expand_tabs_on_save": true,
 	"font_size": 11,
 	"ignored_packages":
 	[
+		"Markdown Extended",
+		"Markdown Preview",
 		"Vintage"
 	],
+	"tab_size": 2,
 	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"update_check": false
