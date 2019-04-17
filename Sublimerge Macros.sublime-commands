@@ -1,86 +1,146 @@
 [
     {
+<<<<<<< HEAD
         "caption": "Sublimerge: Show Uncommited Changes...",
         "command": "sublimerge_macro",
+=======
+>>>>>>> 5d9a9ba388b5aeba2bbab1cb17d4ec08c54829df
         "args": {
             "run": 0
-        }
+        },
+        "caption": "Sublimerge: Show Uncommited Changes...",
+        "command": "sublimerge_macro"
     },
     {
+<<<<<<< HEAD
         "caption": "Sublimerge: Compare to Other Branch...",
         "command": "sublimerge_macro",
+=======
+>>>>>>> 5d9a9ba388b5aeba2bbab1cb17d4ec08c54829df
         "args": {
             "run": 1
-        }
+        },
+        "caption": "Sublimerge: Compare to Other Branch...",
+        "command": "sublimerge_macro"
     },
     {
+<<<<<<< HEAD
         "caption": "Sublimerge: Show Unpushed Changes...",
         "command": "sublimerge_macro",
+=======
+>>>>>>> 5d9a9ba388b5aeba2bbab1cb17d4ec08c54829df
         "args": {
             "run": 2
-        }
+        },
+        "caption": "Sublimerge: Show Unpushed Changes...",
+        "command": "sublimerge_macro"
     },
     {
+<<<<<<< HEAD
         "caption": "Sublimerge: Show Changes Between Current and Remote...",
         "command": "sublimerge_macro",
+=======
+>>>>>>> 5d9a9ba388b5aeba2bbab1cb17d4ec08c54829df
         "args": {
             "run": 3
-        }
+        },
+        "caption": "Sublimerge: Show Changes Between Current and Remote...",
+        "command": "sublimerge_macro"
     },
     {
+<<<<<<< HEAD
         "caption": "Sublimerge: List and Resolve Conflicts...",
         "command": "sublimerge_macro",
+=======
+>>>>>>> 5d9a9ba388b5aeba2bbab1cb17d4ec08c54829df
         "args": {
             "run": 4
-        }
+        },
+        "caption": "Sublimerge: List and Resolve Conflicts...",
+        "command": "sublimerge_macro"
     },
     {
+<<<<<<< HEAD
         "caption": "Sublimerge: Resolve Conflicts in Current File",
         "command": "sublimerge_macro",
+=======
+>>>>>>> 5d9a9ba388b5aeba2bbab1cb17d4ec08c54829df
         "args": {
             "run": 5
-        }
+        },
+        "caption": "Sublimerge: Resolve Conflicts in Current File",
+        "command": "sublimerge_macro"
     },
     {
+<<<<<<< HEAD
         "caption": "Sublimerge: Compare to Custom Git Command Output...",
         "command": "sublimerge_macro",
+=======
+>>>>>>> 5d9a9ba388b5aeba2bbab1cb17d4ec08c54829df
         "args": {
             "run": 6
-        }
+        },
+        "caption": "Sublimerge: Compare to Custom Git Command Output...",
+        "command": "sublimerge_macro"
     },
     {
+<<<<<<< HEAD
         "caption": "Sublimerge: Show Uncommited Changes...",
         "command": "sublimerge_macro",
+=======
+>>>>>>> 5d9a9ba388b5aeba2bbab1cb17d4ec08c54829df
         "args": {
             "run": 7
-        }
+        },
+        "caption": "Sublimerge: Show Uncommited Changes...",
+        "command": "sublimerge_macro"
     },
     {
+<<<<<<< HEAD
         "caption": "Sublimerge: Compare to Custom SVN Command Output...",
         "command": "sublimerge_macro",
+=======
+>>>>>>> 5d9a9ba388b5aeba2bbab1cb17d4ec08c54829df
         "args": {
             "run": 8
-        }
+        },
+        "caption": "Sublimerge: Compare to Custom SVN Command Output...",
+        "command": "sublimerge_macro"
     },
     {
+<<<<<<< HEAD
         "caption": "Sublimerge: Show Uncommited Changes...",
         "command": "sublimerge_macro",
+=======
+>>>>>>> 5d9a9ba388b5aeba2bbab1cb17d4ec08c54829df
         "args": {
             "run": 9
-        }
+        },
+        "caption": "Sublimerge: Show Uncommited Changes...",
+        "command": "sublimerge_macro"
     },
     {
+<<<<<<< HEAD
         "caption": "Sublimerge: Compare to Named Branch...",
         "command": "sublimerge_macro",
+=======
+>>>>>>> 5d9a9ba388b5aeba2bbab1cb17d4ec08c54829df
         "args": {
             "run": 10
-        }
+        },
+        "caption": "Sublimerge: Compare to Named Branch...",
+        "command": "sublimerge_macro"
     },
     {
+<<<<<<< HEAD
         "caption": "Sublimerge: Compare to Custom Hg Command Output...",
         "command": "sublimerge_macro",
+=======
+>>>>>>> 5d9a9ba388b5aeba2bbab1cb17d4ec08c54829df
         "args": {
             "run": 11
-        }
+        },
+        "caption": "Sublimerge: Compare to Custom Hg Command Output...",
+        "command": "sublimerge_macro"
     }
 ]
