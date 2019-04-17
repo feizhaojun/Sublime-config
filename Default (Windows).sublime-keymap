@@ -1,1 +1,25 @@
-{ "keys": ["ctrl+alt+f"], "command": "js_format", "context": [{"key": "selector", "operator": "equal", "operand": "source.js,source.json"}] }
+
+
+[
+    {
+        "keys": ["ctrl+alt+f"],
+        "command": "js_format",
+        "context": [{
+            "key": "selector",
+            "operator": "equal",
+            "operand": "source.js,source.json"
+        }]
+    },
+/*    {
+        "keys": ["tab"], 
+        "args": {
+            "action": "expand_abbreviation"
+        }, 
+        "command": "run_emmet_action", 
+        "context": [
+            {
+                "key": "emmet_action_enabled.expand_abbreviation"
+            }
+        ]
+    }*/
+]
