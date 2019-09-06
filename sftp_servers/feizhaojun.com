@@ -13,7 +13,7 @@
     "password": "850804",
     "port": "21",
     
-    "remote_path": "/www/",
+    "remote_path": "/",
     //"file_permissions": "664",
     //"dir_permissions": "775",
     
