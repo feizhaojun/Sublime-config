@@ -1,12 +1,13 @@
 {
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
 	"expand_tabs_on_save": true,
-	"font_size": 10,
+	"font_size": 8,
 	"ignored_packages":
 	[
 		"Markdown Extended",
 		"Markdown Preview",
-		"Vintage"
+		"Vintage",
+		"zzz A File Icon zzz"
 	],
 	"tab_size": 2,
 	"theme": "Boxy Monokai.sublime-theme",
