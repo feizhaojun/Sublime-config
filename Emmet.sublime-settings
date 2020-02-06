@@ -1,0 +1,15 @@
+{
+    // https://github.com/emmetio/emmet/blob/master/lib/snippets.json
+    "snippets": {
+        "html": {
+            "snippets": {
+                "meta": "<meta charset=\"utf-8\" />"
+            },
+            "abbreviations": {
+                "jq": "<script src=\"//pim.kim/sim/jquery-3.3.1.min.js\"></script>",
+                "link": "<link type=\"text/css\" rel=\"stylesheet\" href=\"\" />",
+                "script": "<script src=\"\">",
+            }
+        }
+    }
+}
